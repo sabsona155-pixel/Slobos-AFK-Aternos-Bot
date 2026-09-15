@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "emuspu-pro.aternos.me",
+    "port": 26417
+,
     "version": "",
     "try-creative": false
   },
